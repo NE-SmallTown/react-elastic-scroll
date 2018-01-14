@@ -1,0 +1,9 @@
+.root {
+    overflow-x: hidden;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    will-change: transform;
+}
